@@ -1,0 +1,2 @@
+20.2.210.116 - 誘導電動機　外形図検索サイト認証ログイン画面 - Authentication login screen to the induction motor outline drawing search site !80!
+23.97.70.179:80 - 誘導電動機　外形図検索サイト認証ログイン画面 - Authentication login screen to the induction motor outline drawing search site
